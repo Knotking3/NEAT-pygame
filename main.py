@@ -4,7 +4,7 @@ import time
 import random
 import pygame
 from random import randint
-
+# hello
 
 class Dot():
   def __init__(self, inputs, hiddenlayer, outputs):
